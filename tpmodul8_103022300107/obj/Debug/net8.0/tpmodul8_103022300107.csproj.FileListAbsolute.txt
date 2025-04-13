@@ -13,3 +13,13 @@ E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\obj\Debug\net8.0\tpmodul8_103022300107.pdb
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\obj\Debug\net8.0\tpmodul8_103022300107.genruntimeconfig.cache
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\obj\Debug\net8.0\ref\tpmodul8_103022300107.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\obj\Debug\net8.0\tpmodul8_103022300107.csproj.AssemblyReference.cache
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul8\tpmodul8_103022300107\tpmodul8_103022300107\obj\Debug\net8.0\tpmodul8.51D1746E.Up2Date
